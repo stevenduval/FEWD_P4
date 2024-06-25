@@ -1,43 +1,49 @@
 // set descriptive color variables
-    // white
-    $color-white: #fff;
-    //gray
-    $color-gray-light: #ccc;
-    $color-gray-dark: #777;
-    // purple
-    $color-purple-light : #deb2ee;
-    $color-purple-dark: #927bc1;
-    // orange
-    $color-orange-light: #fd9f85;
-    $color-orange-dark: #fd7856;
-    // blue
-    $color-blue-light: #7ee6fd;
-    $color-blue-medium: #51ddfc;
-    $color-blue-dark: #4da2bb;
-    $color-teal-light: #80e8d1;
-    $color-teal-dark: #58e1c1;
-    // green
-    $color-green-light: #88d9a0;
-    $color-green-dark: #63cc82;
-    //red
-    $color-red-light: #ec9fa3;
-    $color-red-dark: #e4757a;
+// white
+$color-white: #fff;
+//gray
+$color-gray-light: #ccc;
+$color-gray-dark: #777;
+// purple
+$color-purple-light : #deb2ee;
+$color-purple-dark: #927bc1;
+// orange
+$color-orange-light: #fd9f85;
+$color-orange-dark: #fd7856;
+// blue
+$color-blue-light: #7ee6fd;
+$color-blue-medium: #51ddfc;
+$color-blue-dark: #4da2bb;
+$color-teal-light: #80e8d1;
+$color-teal-dark: #58e1c1;
+// green
+$color-green-light: #88d9a0;
+$color-green-dark: #63cc82;
+//red
+$color-red-light: #ec9fa3;
+$color-red-dark: #e4757a;
 
 // functional color variable names
-    // nav
-    $nav-hover-text-primary: $color-white;
-    $nav-hover-bgcolor-primary: $color-teal-dark;
-    //img
-    $img-border-primary: $color-gray-light;
-    //input
-    $input-border-primary: $color-teal-dark;
-    // buttons
-    $btn-text-color: $color-white;
-    $btn-bgcolor-default: $color-blue-medium;
-    $btn-bgcolor-error: $color-red-dark;
-    $btn-bgcolor-info: $color-purple-dark;
-    $btn-bgcolor-success: $color-green-dark;
-    $btn-bgcolor-warning: $color-orange-dark;
+// elements
+$body-text-primary: $color-gray-dark;
+$heading-text-primary: $color-teal-dark;
+$heading-text-secondary: $color-gray-dark;
+$link-text-primary: $color-blue-medium;
+$blockquote-border-primary: $color-teal-dark;
+// nav
+$nav-hover-text-primary: $color-white;
+$nav-hover-bgcolor-primary: $color-teal-dark;
+//img
+$img-border-primary: $color-gray-light;
+//input
+$input-border-primary: $color-teal-dark;
+// buttons
+$btn-text-color: $color-white;
+$btn-bgcolor-default: $color-blue-medium;
+$btn-bgcolor-error: $color-red-dark;
+$btn-bgcolor-info: $color-purple-dark;
+$btn-bgcolor-success: $color-green-dark;
+$btn-bgcolor-warning: $color-orange-dark;
 
 // Buttons Map
 $buttons: (
